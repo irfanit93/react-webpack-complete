@@ -1,0 +1,24 @@
+@import url(~bootstrap/dist/css/bootstrap.min.css);
+
+.border-black{
+border: 1px solid black;
+}
+
+.mt-30px{
+margin-top:30px;
+}
+
+.clear-lr-padding{
+padding-left:0px;
+padding-right:0px;
+}
+
+.pd-tb-30{
+padding-top:30px;
+padding-bottom:30px;
+}
+
+
+.font-24{
+font-size:24px;
+}

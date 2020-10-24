@@ -1,0 +1,2 @@
+since babel-loader includes @babel/core and @babel/cli, we are not including these 2 in dev dependencies.
+If you want your project to be updated to the latest version of @babel/core and @babel/cli, you can install it manually as dev dependency
